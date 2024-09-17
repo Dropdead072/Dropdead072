@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max (@Dropdead072), student of the HSE
-- 👀 I’m interested in Machine Learning and C++
-- 🌱 I’m currently learning ML, math behind it and algorithms/C++
+- 👀 I’m interested in Machine Learning 
+- 🌱 I’m currently learning ML and math for all those crazy ML sillies 
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 You can either mail me on dropdead.cbnr@gmail.com or message me on TG (@dropdead72), just please let me know you are from Git
 
