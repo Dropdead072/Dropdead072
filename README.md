@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Max (@Dropdead72), student of the HSE
+- 👋 Hi, I’m Max (@Dropdead072), student of the HSE
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning ML and math for all those crazy ML sillies 
 - 💞️ I’m looking to collaborate on any interesting projects
